@@ -36,7 +36,7 @@ easy-to-use... 👍👍
 * Just Fork or download the code and compile it with truffle.
 * Visit this website and paste the code --> https://remix.ethereum.org/
 * Compile and deploy it.
-* Open the HTML file: Now... just open the index.html file in your browser.
+
 
 
 ## 👋👋 Join in!
